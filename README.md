@@ -18,21 +18,6 @@
 
 ---
 
-### 🚀 Featured Project: YETAHUB
-
-> Mobile GUI Script with features like:
-> - Camlock (Player & NPC)
-> - Auto Block (Close & Long Range)
-> - Flash FX, M1 Counter, and more  
-> - Stylish GUI layout for easy control  
-> - Built for mobile executors
-
-<p align="center">
-  <img src="https://i.imgur.com/Z2aA8xz.png" alt="YETAHUB Preview" width="500"/>
-</p>
-
----
-
 ### 🧠 Skills & Languages
 ```txt
 Main Language:      Lua (Roblox)
