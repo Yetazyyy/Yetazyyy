@@ -4,10 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-roblox%20scripting-blue?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YouTube-%40yetazyyy-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-mrfs_.-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</p>
-
+  
 ---
 
 ### ⚡ About Me
