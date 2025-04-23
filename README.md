@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+YetaHUB.;Roblox+Scripter+%7C+GUI+Maker.;Creator+of+YETAHUB.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=HEY%2C+I'm+YetaHUB.;Roblox+Scripter+%7C+GUI+Maker.;Creator+of+YETAHUB.">
 </h1>
 
 <p align="center">
