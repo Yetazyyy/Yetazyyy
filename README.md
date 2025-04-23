@@ -22,5 +22,3 @@
 ```txt
 Main Language:      Lua (Roblox)
 
----
-
