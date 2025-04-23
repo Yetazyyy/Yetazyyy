@@ -23,3 +23,8 @@
 Main Language:      Lua (Roblox)
 Secondary:          HTML / CSS (basic)
 Specialty:          Game Automation, Mobile GUI, Utility Scripts
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yetazyyy&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yetazyyy&layout=compact&theme=tokyonight)
