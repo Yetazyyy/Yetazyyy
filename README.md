@@ -9,9 +9,6 @@
 
 ### ⚡ About Me
 - 🔧 Creator of **YETAHUB**, a stylish and powerful mobile GUI for Roblox  
-- 🧠 Focused on scripting performance, utility, and user experience  
-- ⚙️ Turning smart code into simple tools anyone can use  
-- ✨ Inspired by automation, gameplay control, and cool design
 
 ---
 
