@@ -4,7 +4,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-roblox%20scripting-blue?style=for-the-badge&logo=lua&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/Python-coding-yellow?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
 ---
 
 ### ⚡ About Me
@@ -14,5 +16,5 @@
 
 ### 🧠 Skills
 ```txt
-Main Language:      Lua (Roblox)
+Main Languages:     Lua,Python
 
