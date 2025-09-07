@@ -8,12 +8,6 @@
 </p>
 
 ---
-
-### ⚡ About Me
-- 🔧 Creator of **YETAHUB**, a stylish and powerful mobile GUI for Roblox  
-
----
-
 ### 🧠 Skills
 ```txt
 Main Languages:     Lua,Python
