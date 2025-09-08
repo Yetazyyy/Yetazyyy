@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=HEY%2C+I'm+Yetazyyy.;LUA+%7C+PYTHON.;Creator+of+Yetazyyy.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=HEY%2C+I'm+YetaHub.;Coding+LUA+%7C+PYTHON.;Creator+of+Yetahub.">
 </h1>
 
 <p align="center">
@@ -8,7 +8,3 @@
 </p>
 
 ---
-### 🧠 Skills
-```txt
-Main Languages:     Lua,Python
-
