@@ -4,10 +4,8 @@
 </p>
 
 ---
-
-### Halo, saya yetazyyy
-- 💻Fokus: **Lua (Roblox scripting)** & **Python (Tools)**  
-- 🌱Sedang belajar: Cybersecurity & automation  
-- 🎯Tujuan: Bikin project sederhana yang berguna dan mudah dipahami
-
+### Hi, I'm yetazyyy
+- 💻 Focus: **Lua (Roblox scripting)** & **Python (Tools)**
+- 🌱 Currently learning: Cybersecurity & Automation
+- 🎯 Goal: Build simple projects that are useful and easy to understand
 ---
