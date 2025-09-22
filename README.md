@@ -10,3 +10,10 @@
 ---
 
 <p align="center"><i>"Code. Learn. Create."</i></p>
+<p align="center"><i>"Code. Learn. Create."</i></p>
+
+<p align="center"><i>"Keep it simple, make it powerful."</i></p>
+
+<p align="center"><i>"Building skills, breaking limits."</i></p>
+
+<p align="center"><i>"From zero to endless possibilities."</i></p>
