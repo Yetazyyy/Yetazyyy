@@ -6,14 +6,8 @@
 ---
 
 ### Halo, saya yetazyyy
-- Fokus: **Lua (Roblox scripting)** & **Python**  
+- Fokus: **Lua (Roblox scripting)** & **Python (Tools)**  
 - Sedang belajar: Cybersecurity & automation  
 - Tujuan: Bikin project sederhana yang berguna dan mudah dipahami
-
----
-
-### Project contoh
-- `lua/` — script Roblox
-- `python/` — tools
 
 ---
