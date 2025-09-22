@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=HEY%2C+I'm+yetazyyy.;Lua+%26+Python+Developer;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=HEY%2C+I'm+yetazyyy.;Lua+%26+Python+Developer;">
 </h1>
 
 <p align="center">
@@ -9,11 +9,24 @@
 
 ---
 
-<p align="center"><i>"Code. Learn. Create."</i></p>
-<p align="center"><i>"Code. Learn. Create."</i></p>
+### 👋 Halo, saya yetazyyy
+- 💻 Fokus: **Lua (Roblox scripting)** & **Python**  
+- 🌱 Sedang belajar: Cybersecurity & automation  
+- 🎯 Tujuan: Bikin project sederhana yang berguna dan mudah dipahami
 
-<p align="center"><i>"Keep it simple, make it powerful."</i></p>
+---
 
-<p align="center"><i>"Building skills, breaking limits."</i></p>
+### ✨ Project contoh
+- `lua/` — script Roblox & contoh modul  
+- `python/` — skrip otomatisasi, parser, dan tools kecil
 
-<p align="center"><i>"From zero to endless possibilities."</i></p>
+---
+
+### 📜 Motto
+> _"Keep it simple, make it powerful."_
+
+---
+
+### 📬 Kontak
+- Discord: `yetazyyy#xxxx` (ganti `xxxx` sesuai tagmu)  
+- GitHub: `https://github.com/your-username` (ganti sesuai akun)
