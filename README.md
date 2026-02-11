@@ -1,4 +1,4 @@
-# Hi I'm Yetahub/Ohang
+# Hi I'm Ohang
 
 🎯 **Full-Stack Scripter & Automation Enthusiast**
 
