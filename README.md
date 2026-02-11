@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Yetahub/Ohang
+# Hi I'm Yetahub/Ohang
 
 🎯 **Full-Stack Scripter & Automation Enthusiast**
 
@@ -34,18 +34,9 @@ All projects are educational and experimental, created with a focus on learning 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yetazyyy&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yetazyyy&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ohangxweb)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yetazyyy)
 
 ---
 
