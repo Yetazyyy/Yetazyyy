@@ -36,7 +36,7 @@ All projects are educational and experimental, created with a focus on learning 
 
 ## 📫 Connect With Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ohangxweb)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ohangxwebvandid)
 
 ---
 
