@@ -1,6 +1,6 @@
 # Hi, I'm Ohang 
 
-I focus on **building functional and educational projects** that solve real-world problems.  
+All tools are intended for educational purposes only
 
 ---
 
