@@ -1,12 +1,20 @@
-# Hi I'm Ohang
+# Hi, I'm Ohang 👋
 
-My focus is on building functional, educational projects that solve real-world problems.
+I focus on **building functional and educational projects** that solve real-world problems.  
+My work primarily revolves around **Python, Lua, JavaScript, and HTML** projects for learning and practical applications.
 
 ---
 
-## 📫 Connect With Me
+## 📱 Telegram Group
 
+Join my Telegram for updates and discussions:  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ohangxwebvandid)
 
-# Class Hacking 
+---
+
+## 💻 Hacking Classes
+
+Learn and practice with my classes at **Webvand ID**:  
 [Webvand ID](https://t.me/AforAhong)
+
+---
