@@ -8,4 +8,4 @@ My focus is on building functional, educational projects that solve real-world p
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ohangxwebvandid)
 
-[![Webvand ID](https://t.me/AforAhong)
+[Webvand ID](https://t.me/AforAhong)
