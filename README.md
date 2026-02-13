@@ -21,11 +21,7 @@ All projects are built to **learn, test, and understand technology responsibly**
 
 ## 🛠 Tech Stack
 
-- 🐍 Python  
-- 🧩 JavaScript  
-- 🌐 HTML & CSS  
-- ⚙️ Bash / Terminal  
-- 🔍 Security Research Tools  
+- 🐍 Python          
 
 ---
 
@@ -40,8 +36,7 @@ All projects are built to **learn, test, and understand technology responsibly**
 
 ## 🌐 Connect With Me
 
-- 💬 **Telegram** : https://t.me/ohangxwebvandid  
-- 💻 **GitHub**   : https://github.com/Yetazyyy  
+- 💬 **Telegram** : https://t.me/ohangcommunity    
 
 ---
 
