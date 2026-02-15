@@ -1,44 +1,44 @@
-<div align="center">
-
 # 🌐 HELLO WORLD
 
----
-
-# 👋 About Me
-
-I create **tools and projects** focused on  
-🔐 **Cyber Security**  
-🧪 **Research & Learning**  
-📚 **Educational Purposes Only**
-
-All projects are built to **learn, test, and understand technology responsibly**.
+![Security](https://img.shields.io/badge/Cyber%20Security-Research-blue?style=for-the-badge&logo=hackthebox)
+![Status](https://img.shields.io/badge/Grey%20Hat-Ethical%20Research-critical?style=for-the-badge)
+![Education](https://img.shields.io/badge/Purpose-Educational%20Only-success?style=for-the-badge)
 
 ---
 
-# 🛠 Tech Stack
+## 👤 About Me
 
-- 🐍 Python
-- 📜 Lua         
+🛡️ **Grey Hat Security Enthusiast**  
+Focused on **ethical security research, system analysis, and responsible disclosure**.
+
+I create **tools and projects** related to:
+
+- 🔐 Cyber Security Research  
+- 🧪 Vulnerability Testing & Analysis  
+- 📚 Educational & Learning Purposes  
+
+All projects are designed to **understand how systems work, identify weaknesses responsibly, and improve defensive security knowledge**.
 
 ---
 
-# 📌 Disclaimer
+## ⚠️ Disclaimer
 
-> **All tools and content in this repository are intended for educational and research purposes only.**  
+> **All tools and content in this repository are intended strictly for educational and research purposes only.**  
 >  
-> The author is **not responsible** for any misuse or illegal activity.  
-> Use responsibly and only on systems you own or have permission to test.
+> I am **not responsible** for any misuse, damage, or illegal activity.  
+>  
+> Use these tools **only on systems you own or have explicit permission to test**.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-- 💬 **Telegram** : https://t.me/ohangcommunity    
+[![Telegram](https://img.shields.io/badge/Telegram-Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ohangcommunity)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Yetazyyy)
+
+💬 Join the **0 Community**  
+https://t.me/ohangcommunity
 
 ---
 
-<div align="center">
-
-⭐ If you find this repository useful, feel free to star it!
-
-</div>
+⭐ If you find this repository useful, feel free to **star** it and support responsible security research.
