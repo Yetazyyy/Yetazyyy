@@ -2,8 +2,6 @@
 
 # 🌐 HELLO WORLD
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
 </div>
 
 ---
