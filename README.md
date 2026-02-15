@@ -21,7 +21,8 @@ All projects are built to **learn, test, and understand technology responsibly**
 
 ## 🛠 Tech Stack
 
-- 🐍 Python          
+- 🐍 Python
+- 📜 Lua         
 
 ---
 
