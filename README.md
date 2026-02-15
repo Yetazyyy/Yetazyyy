@@ -1,5 +1,3 @@
-# 🌐 HELLO WORLD
-
 ![Security](https://img.shields.io/badge/Cyber%20Security-Research-blue?style=for-the-badge&logo=hackthebox)
 ![Status](https://img.shields.io/badge/Grey%20Hat-Ethical%20Research-critical?style=for-the-badge)
 ![Education](https://img.shields.io/badge/Purpose-Educational%20Only-success?style=for-the-badge)
@@ -36,7 +34,7 @@ All projects are designed to **understand how systems work, identify weaknesses 
 [![Telegram](https://img.shields.io/badge/Telegram-Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ohangcommunity)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Yetazyyy)
 
-💬 Join the **0 Community**  
+💬 Join the **Community**  
 https://t.me/ohangcommunity
 
 ---
