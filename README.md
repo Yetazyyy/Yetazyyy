@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
 I create **tools and projects** focused on  
 🔐 **Cyber Security**  
@@ -15,14 +15,14 @@ All projects are built to **learn, test, and understand technology responsibly**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 - 🐍 Python
 - 📜 Lua         
 
 ---
 
-## 📌 Disclaimer
+# 📌 Disclaimer
 
 > **All tools and content in this repository are intended for educational and research purposes only.**  
 >  
@@ -31,7 +31,7 @@ All projects are built to **learn, test, and understand technology responsibly**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 - 💬 **Telegram** : https://t.me/ohangcommunity    
 
