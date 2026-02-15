@@ -2,8 +2,6 @@
 
 # 🌐 HELLO WORLD
 
-</div>
-
 ---
 
 ## 👋 About Me
