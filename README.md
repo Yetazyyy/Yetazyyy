@@ -1,4 +1,4 @@
-![Security](https://img.shields.io/badge/Cyber%20Security-Research-blue?style=for-the-badge&logo=hackthebox)
+![Security](https://img.shields.io/badge/Cyber%20Security-Research-blue?style=for-the-badge&logo=)
 ![Status](https://img.shields.io/badge/Grey%20Hat-Ethical%20Research-critical?style=for-the-badge)
 ![Education](https://img.shields.io/badge/Purpose-Educational%20Only-success?style=for-the-badge)
 
