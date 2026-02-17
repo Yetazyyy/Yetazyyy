@@ -4,9 +4,9 @@
 
 ---
 
-## 👤 About Me
+# About Me
 
-🛡️ **Grey Hat Security Enthusiast**  
+**Grey Hat Security Enthusiast**  
 Focused on **ethical security research, system analysis, and responsible disclosure**.
 
 I create **tools and projects** related to:
@@ -19,7 +19,7 @@ All projects are designed to **understand how systems work, identify weaknesses 
 
 ---
 
-## ⚠️ Disclaimer
+# Disclaimer
 
 > **All tools and content in this repository are intended strictly for educational and research purposes only.**  
 >  
@@ -32,10 +32,6 @@ All projects are designed to **understand how systems work, identify weaknesses 
 ## 🌐 Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ohangcommunity)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Yetazyyy)
-
-💬 Join the **Community**  
-https://t.me/ohangcommunity
 
 ---
 
