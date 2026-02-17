@@ -21,11 +21,11 @@ All projects are designed to **understand how systems work, identify weaknesses 
 
 # Disclaimer
 
-> **All tools and content in this repository are intended strictly for educational and research purposes only.**  
->  
-> I am **not responsible** for any misuse, damage, or illegal activity.  
->  
-> Use these tools **only on systems you own or have explicit permission to test**.
+**All tools and content in this repository are intended strictly for educational and research purposes only.**  
+
+I am **not responsible** for any misuse, damage, or illegal activity.  
+ 
+Use these tools **only on systems you own or have explicit permission to test**.
 
 ---
 
