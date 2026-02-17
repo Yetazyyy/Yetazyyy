@@ -29,10 +29,10 @@ All projects are designed to **understand how systems work, identify weaknesses 
 
 ---
 
-## 🌐 Connect With Me
+# Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ohangcommunity)
 
 ---
 
-⭐ If you find this repository useful, feel free to **star** it and support responsible security research.
+If you find this repository useful, feel free to **star** it and support responsible security research.
