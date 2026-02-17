@@ -11,9 +11,9 @@ Focused on **ethical security research, system analysis, and responsible disclos
 
 I create **tools and projects** related to:
 
-- 🔐 Cyber Security Research  
-- 🧪 Vulnerability Testing & Analysis  
-- 📚 Educational & Learning Purposes  
+- Cyber Security Research  
+- Vulnerability Testing & Analysis  
+- Educational & Learning Purposes  
 
 All projects are designed to **understand how systems work, identify weaknesses responsibly, and improve defensive security knowledge**.
 
