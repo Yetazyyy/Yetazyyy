@@ -1,5 +1,6 @@
-Grey Hat Security Enthusiast.  
-Projects: Cyber Security, Vulnerability Testing, Security Analysis.  
+# ⚡ Welcome to My Profile
 
-**Educational purposes only.**  
-Use only on systems you own or have permission to test.
+I am a **Grey Hat Security Researcher** focused on **ethical hacking, system analysis, and learning**.  
+Projects include: Cyber Security, Vulnerability Testing, Security Analysis.  
+
+**⚠️ Disclaimer:** For educational purposes only. Use tools only on systems you own or have explicit permission to test.
